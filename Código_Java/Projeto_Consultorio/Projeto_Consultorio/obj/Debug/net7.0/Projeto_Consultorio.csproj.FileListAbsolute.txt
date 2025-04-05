@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\bin\Debug\net7.0\Projeto_Consultorio.exe
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\bin\Debug\net7.0\Projeto_Consultorio.deps.json
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\bin\Debug\net7.0\Projeto_Consultorio.runtimeconfig.json
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\bin\Debug\net7.0\Projeto_Consultorio.dll
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\bin\Debug\net7.0\Projeto_Consultorio.pdb
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.AssemblyInfo.cs
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.dll
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\refint\Projeto_Consultorio.dll
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.pdb
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\Projeto_Consultorio.genruntimeconfig.cache
+C:\Users\alexa\Desktop\TI\Projeto_consultório\Código_Java\Projeto_Consultorio\Projeto_Consultorio\obj\Debug\net7.0\ref\Projeto_Consultorio.dll
