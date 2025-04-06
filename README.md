@@ -37,5 +37,11 @@ javac -d bin src/main/java/br/com/projetoconsultorio/model/*.java
 3. Execute a classe Main:
 java -cp bin br.com.projetoconsultorio.model.Main
 
+Desenvolvido por:
+Alunos:       Alexandre Savini                        RA:24000563
+              Wanderberg de Andrade                   RA: 1012023100726
+              José Carlos Machado                     RA: 1012022201571
+              Julio Cesar Azevedo Souza               RA: 24001773
+              Gabriel Henrique Barbosa                RA:1012023200408
 
 
