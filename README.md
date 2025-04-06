@@ -43,5 +43,5 @@ Alunos:       Alexandre Savini                        RA:24000563
               José Carlos Machado                     RA: 1012022201571
               Julio Cesar Azevedo Souza               RA: 24001773
               Gabriel Henrique Barbosa                RA:1012023200408
-
+              Glauber Mariano Lellis Junior           RA: 1012023200186
 
