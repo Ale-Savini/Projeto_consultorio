@@ -75,5 +75,5 @@ Alunos:       Alexandre Savini                        RA:24000563
               Wanderberg de Andrade                   RA: 1012023100726
               Julio Cesar Azevedo Souza               RA: 24001773
               Gabriel Henrique Barbosa                RA:1012023200408
-              Glauber Mariano Lellis Junior           RA: 1012023200186
+              Gabriel Henrique dos Reis Diunizio      RA: RA:24000541
 
